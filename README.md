@@ -2,12 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 This is a short web application developed to expose the user to the basics of HTML, CSS, and JavaScript. The user will also learn good habits using version control via Github. The user will gain familiarity with working locally and syncing to remote projects via the command line. 
 Through the building of this project I learned the basic structure of a web application and various methods of styling that application. I bagan to learn some basic concepts of functions in JavaScript. The importance of robust documentation in the form of a README file was stressed and I made my first efforts at completing one.
 
